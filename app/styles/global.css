@@ -1,0 +1,17 @@
+@media (hover) {
+	.image-container:hover {
+		scale: 1.1;
+	}
+
+	.cart-icon-container {
+		display: none;
+	}
+
+	.image-container:hover .cart-icon-container {
+		display: block;
+	}
+
+	.trash-icon:hover {
+		color: rgba(26, 32, 44, 0.8);
+	}
+}

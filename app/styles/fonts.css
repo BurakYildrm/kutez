@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "Montserrat";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url("/fonts/MONTSERRAT-MEDIUM.OTF") format("opentype");
+}
+
+@font-face {
+	font-family: "Zapfhumanst";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("/fonts/ZHUM601N.TTF") format("truetype");
+}
